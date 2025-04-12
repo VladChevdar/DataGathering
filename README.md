@@ -5,7 +5,7 @@ This Python script checks if it's currently raining in Portland, OR and whether 
 ## 🔧 Setup
 
 1. Clone the repo and navigate into the folder:
-git clone https://github.com/your-username/your-repo-name.git cd your-repo-name
+git clone https://github.com/VladChevdar/DataGathering.git
 
 2. Create and activate a virtual environment:
 python3 -m venv venv source venv/bin/activate # On Windows: venv\Scripts\activate
